@@ -1,0 +1,353 @@
+fileFormatVersion: 2
+guid: 268845a47a1d8794184d9c44529a75cb
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'Head' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: jnt_Hip
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: jnt_UpperLeg.L
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: jnt_UpperLeg.R
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: jnt_LowerLeg.L
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: jnt_LowerLeg.R
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: jnt_Foot.L
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: jnt_Foot.R
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: jnt_Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: jnt_Chest
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: jnt_Toe.L
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: jnt_Toe.R
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: jnt_Chest_end
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Mevica_TightSkirt(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ch_Root
+      parentName: Mevica_TightSkirt(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071069, y: 0, z: 0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: jnt_Hip
+      parentName: ch_Root
+      position: {x: -4.4456644e-18, y: 0.012325915, z: 0.8168823}
+      rotation: {x: 0.6790038, y: -6.4523323e-15, z: -0.000000024652172, w: 0.7341348}
+      scale: {x: 1, y: 1, z: 1}
+    - name: jnt_UpperLeg.L
+      parentName: jnt_Hip
+      position: {x: -0.057691302, y: 0.0067887525, z: 0.0007135496}
+      rotation: {x: 0.9988689, y: -0.0056970613, z: 0.03980112, w: -0.025386462}
+      scale: {x: 1, y: 0.99999994, z: 1.0000017}
+    - name: jnt_LowerLeg.L
+      parentName: jnt_UpperLeg.L
+      position: {x: -0.0005573729, y: 0.3684799, z: 0.006982584}
+      rotation: {x: 0.057775702, y: -0.07487031, z: -0.015475416, w: 0.99539787}
+      scale: {x: 0.99999994, y: 0.9999999, z: 1}
+    - name: jnt_Foot.L
+      parentName: jnt_LowerLeg.L
+      position: {x: 0.00029612507, y: 0.40414813, z: 0.0103949355}
+      rotation: {x: -0.6056891, y: 0.023657862, z: 0.027455274, w: 0.7948756}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: jnt_Toe.L
+      parentName: jnt_Foot.L
+      position: {x: 0.000000004974936, y: 0.114943705, z: 0.0000000013096724}
+      rotation: {x: -0.1710587, y: -0.000013350807, z: -0.00024123592, w: 0.98526084}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1}
+    - name: jnt_Toe.L_end
+      parentName: jnt_Toe.L
+      position: {x: 0.0000000061227183, y: 0.04130024, z: -0.0000000013969839}
+      rotation: {x: -0.00000003699196, y: 4.6497917e-11, z: -3.6682835e-10, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: jnt_Toe.L_end_end
+      parentName: jnt_Toe.L_end
+      position: {x: -0, y: 0.041300293, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: jnt_LowerLeg.L.001
+      parentName: jnt_LowerLeg.L
+      position: {x: -0.0032122517, y: 0.20689559, z: 0.019465167}
+      rotation: {x: -0.052700642, y: 0.075063355, z: 0.010808834, w: 0.9957266}
+      scale: {x: 0.9999999, y: 1, z: 0.99999994}
+    - name: jnt_LowerLeg.L.001_end
+      parentName: jnt_LowerLeg.L.001
+      position: {x: -0, y: 0.17974688, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: spo_Butt.L
+      parentName: jnt_UpperLeg.L
+      position: {x: 0.000000031432137, y: 0.00000007171184, z: -0.000000019557774}
+      rotation: {x: 0.5956626, y: -0.07937836, z: 0.07974784, w: 0.79531467}
+      scale: {x: 1, y: 1, z: 0.9999999}
+    - name: spo_Butt.L_end
+      parentName: spo_Butt.L
+      position: {x: 0.000000007450581, y: 0.11389022, z: -0.000000010398054}
+      rotation: {x: -0.0000000052920903, y: 0.000000019201053, z: -0.000000008381903,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: spo_Butt.L_end_end
+      parentName: spo_Butt.L_end
+      position: {x: -0, y: 0.11389037, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: jnt_Spine
+      parentName: jnt_Hip
+      position: {x: 6.842917e-10, y: 0.048271295, z: 0.01921838}
+      rotation: {x: 0.032095697, y: 0.000000017311162, z: 0.000000017551447, w: 0.99948484}
+      scale: {x: 1, y: 1, z: 1}
+    - name: jnt_Chest
+      parentName: jnt_Spine
+      position: {x: -0.0000000017881322, y: 0.06548913, z: 0.00017193775}
+      rotation: {x: 0.0012398063, y: 3.3258492e-15, z: -1.7281448e-15, w: 0.9999992}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: jnt_Chest_end
+      parentName: jnt_Chest
+      position: {x: -0, y: 0.064090766, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: jnt_UpperLeg.R
+      parentName: jnt_Hip
+      position: {x: 0.05769129, y: 0.0067887567, z: 0.0007135467}
+      rotation: {x: 0.9988689, y: 0.005697143, z: -0.039801154, w: -0.025386458}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000017}
+    - name: jnt_LowerLeg.R
+      parentName: jnt_UpperLeg.R
+      position: {x: 0.0005573558, y: 0.36847985, z: 0.006982588}
+      rotation: {x: 0.05777572, y: 0.07487031, z: 0.015475457, w: 0.99539787}
+      scale: {x: 0.99999994, y: 1, z: 0.99999994}
+    - name: jnt_Foot.R
+      parentName: jnt_LowerLeg.R
+      position: {x: -0.00029611168, y: 0.40414813, z: 0.010394915}
+      rotation: {x: -0.6056891, y: -0.023657866, z: -0.027455274, w: 0.7948756}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: jnt_Toe.R
+      parentName: jnt_Foot.R
+      position: {x: 0.00000001119588, y: 0.11494372, z: 0.00000003387686}
+      rotation: {x: -0.17105865, y: 0.000017826622, z: 0.00024040867, w: 0.98526084}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: jnt_Toe.R_end
+      parentName: jnt_Toe.R
+      position: {x: 0.0000000035843186, y: 0.04130025, z: -3.783498e-10}
+      rotation: {x: -0.0000000066118195, y: 1.0354029e-10, z: -2.901146e-11, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: jnt_Toe.R_end_end
+      parentName: jnt_Toe.R_end
+      position: {x: -0, y: 0.041300308, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: jnt_LowerLeg.R.001
+      parentName: jnt_LowerLeg.R
+      position: {x: 0.003212247, y: 0.20689572, z: 0.019465152}
+      rotation: {x: -0.052700657, y: -0.07506337, z: -0.010808827, w: 0.9957266}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: jnt_LowerLeg.R.001_end
+      parentName: jnt_LowerLeg.R.001
+      position: {x: -0, y: 0.17974688, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: spo_Butt.R
+      parentName: jnt_UpperLeg.R
+      position: {x: 0.00000001169974, y: 0.00000007622293, z: 0.000000013504177}
+      rotation: {x: 0.5956626, y: 0.07937842, z: -0.07974786, w: 0.79531467}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.9999999}
+    - name: spo_Butt.R_end
+      parentName: spo_Butt.R
+      position: {x: -0.0000000055879354, y: 0.11389019, z: 0.000000062606546}
+      rotation: {x: -0.000000030338125, y: 0.0000000061674825, z: 0.000000002561137,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: spo_Butt.R_end_end
+      parentName: spo_Butt.R_end
+      position: {x: -0, y: 0.113890335, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mevica_TightSkirt
+      parentName: Mevica_TightSkirt(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.00000003774895, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

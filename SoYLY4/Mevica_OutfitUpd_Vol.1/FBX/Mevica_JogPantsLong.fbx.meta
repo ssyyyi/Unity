@@ -1,0 +1,389 @@
+fileFormatVersion: 2
+guid: f98497f0195b7bb4f8edf42671875262
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'LeftLowerLeg' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: jnt_Hip
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: jnt_UpperLeg.L
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: jnt_UpperLeg.R
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: jnt_Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: jnt_Chest
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ph_JogPantsA00.L
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ph_JogPantsA00.R
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ph_JogPantsA01.L
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ph_JogPantsA01.R
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ph_JogPantsA02.L
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ph_JogPantsA02.R
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ph_JogPantsA03.L
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ph_JogPantsA03.R
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rot_JogPants
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Mevica_JogPantsLong(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ch_Root
+      parentName: Mevica_JogPantsLong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071069, y: 0, z: 0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: jnt_Hip
+      parentName: ch_Root
+      position: {x: -4.4456644e-18, y: 0.012325915, z: 0.8168823}
+      rotation: {x: -0.03898349, y: 0.000000114704775, z: -0.0000034043826, w: 0.9992399}
+      scale: {x: 1, y: 1, z: 1}
+    - name: jnt_UpperLeg.L
+      parentName: jnt_Hip
+      position: {x: -0.057691302, y: 0.0067887525, z: 0.0007135496}
+      rotation: {x: 0.9988689, y: -0.0056970613, z: 0.03980112, w: -0.025386462}
+      scale: {x: 1, y: 0.99999994, z: 1.0000017}
+    - name: spo_Butt.L
+      parentName: jnt_UpperLeg.L
+      position: {x: 0.000000031432137, y: 0.00000007171184, z: -0.000000019557774}
+      rotation: {x: 0.5956626, y: -0.07937836, z: 0.07974784, w: 0.79531467}
+      scale: {x: 1, y: 1, z: 0.9999999}
+    - name: spo_Butt.L_end
+      parentName: spo_Butt.L
+      position: {x: 0.000000007450581, y: 0.11389022, z: -0.000000010398054}
+      rotation: {x: -0.0000000052920903, y: 0.000000019201053, z: -0.000000008381903,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: spo_Butt.L_end_end
+      parentName: spo_Butt.L_end
+      position: {x: -0, y: 0.11389037, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: jnt_Spine
+      parentName: jnt_Hip
+      position: {x: 6.842917e-10, y: 0.048271295, z: 0.01921838}
+      rotation: {x: 0.5653266, y: 0.00000003872943, z: 0.0000000061405303, w: 0.82486725}
+      scale: {x: 1, y: 1, z: 1}
+    - name: jnt_Chest
+      parentName: jnt_Spine
+      position: {x: -0.0000000017881322, y: 0.06548913, z: 0.00017193775}
+      rotation: {x: -0.40173408, y: -0.000000010256536, z: -0.0000000016941493, w: 0.91575634}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: rot_JogPants
+      parentName: jnt_Chest
+      position: {x: 2.7458955e-18, y: -0.0023854289, z: 0.014566211}
+      rotation: {x: 0.9996438, y: 0.000000006363289, z: -0.00000023833366, w: -0.026689537}
+      scale: {x: 1, y: 1, z: 1.000002}
+    - name: ph_JogPantsA00.L
+      parentName: rot_JogPants
+      position: {x: -0.0012792705, y: 0.003793596, z: -0.05897276}
+      rotation: {x: -0.14298448, y: 0.10775689, z: 0.5921327, w: 0.78569895}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ph_JogPantsA01.L
+      parentName: ph_JogPantsA00.L
+      position: {x: 0.000000011641532, y: 0.030994926, z: 0.00000003166933}
+      rotation: {x: 0.012101908, y: -0.01618537, z: 0.110800855, w: 0.9936372}
+      scale: {x: 0.9999999, y: 0.99999994, z: 0.9999999}
+    - name: ph_JogPantsA02.L
+      parentName: ph_JogPantsA01.L
+      position: {x: 5.820766e-10, y: 0.025464261, z: 0.000000008210463}
+      rotation: {x: 0.018156875, y: 0.0004202363, z: 0.025903657, w: 0.9994995}
+      scale: {x: 0.9999998, y: 0.99999994, z: 0.9999999}
+    - name: ph_JogPantsA03.L
+      parentName: ph_JogPantsA02.L
+      position: {x: 2.5053026e-10, y: 0.035266656, z: -0.0000000049326037}
+      rotation: {x: 0.06206992, y: 9.234202e-10, z: -0.00000002564272, w: 0.99807185}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ph_JogPantsA03.L.001
+      parentName: ph_JogPantsA03.L
+      position: {x: 1.7088864e-10, y: 0.045337837, z: 0.0000000043778634}
+      rotation: {x: 0.060290925, y: -1.0833728e-14, z: -0.000000028749021, w: 0.99818087}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: ph_JogPantsA03.L.001_end
+      parentName: ph_JogPantsA03.L.001
+      position: {x: -0, y: 0.045922402, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ph_JogPantsB00.L
+      parentName: rot_JogPants
+      position: {x: -0.0043468717, y: 0.0041838572, z: -0.060612224}
+      rotation: {x: -0.23510662, y: 0.06534581, z: 0.25969377, w: 0.93435216}
+      scale: {x: 0.99999994, y: 0.9999999, z: 1}
+    - name: ph_JogPantsB01.L
+      parentName: ph_JogPantsB00.L
+      position: {x: -0.000000030733645, y: 0.018851021, z: -0.000000024029525}
+      rotation: {x: 0.1065428, y: -0.04856374, z: -0.1134792, w: 0.9866168}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: ph_JogPantsB01.L_end
+      parentName: ph_JogPantsB01.L
+      position: {x: -0, y: 0.028482031, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ph_JogPantsB00.R
+      parentName: rot_JogPants
+      position: {x: 0.004346814, y: 0.004183857, z: -0.06061224}
+      rotation: {x: -0.2351067, y: -0.06534539, z: -0.2596937, w: 0.9343522}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: ph_JogPantsB01.R
+      parentName: ph_JogPantsB00.R
+      position: {x: 0.000000031664968, y: 0.018851016, z: -0.000000009757532}
+      rotation: {x: 0.10654273, y: 0.04856374, z: 0.1134792, w: 0.9866168}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: ph_JogPantsB01.R_end
+      parentName: ph_JogPantsB01.R
+      position: {x: -0, y: 0.028482031, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ph_JogPantsA00.R
+      parentName: rot_JogPants
+      position: {x: 0.0012792142, y: 0.0037935963, z: -0.058972754}
+      rotation: {x: -0.14298412, y: -0.10775912, z: -0.59213495, w: 0.78569704}
+      scale: {x: 0.99999994, y: 0.9999999, z: 0.9999999}
+    - name: ph_JogPantsA01.R
+      parentName: ph_JogPantsA00.R
+      position: {x: 0.0000000027939677, y: 0.03099485, z: -0.000000028131842}
+      rotation: {x: 0.012100856, y: 0.01618489, z: -0.11080061, w: 0.9936372}
+      scale: {x: 0.99999994, y: 1, z: 0.9999999}
+    - name: ph_JogPantsA02.R
+      parentName: ph_JogPantsA01.R
+      position: {x: -0.000000003958121, y: 0.0254642, z: 0.000000008220013}
+      rotation: {x: 0.018156875, y: -0.0004202357, z: -0.025903646, w: 0.9994995}
+      scale: {x: 0.9999998, y: 0.99999994, z: 0.9999999}
+    - name: ph_JogPantsA03.R
+      parentName: ph_JogPantsA02.R
+      position: {x: -1.9334578e-10, y: 0.035266656, z: 0.000000009969936}
+      rotation: {x: 0.062069897, y: -6.95697e-10, z: 0.00000002936421, w: 0.99807185}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: ph_JogPantsA03.R.001
+      parentName: ph_JogPantsA03.R
+      position: {x: -1.7090063e-10, y: 0.04533784, z: 0.0000000015631787}
+      rotation: {x: 0.060290933, y: 2.946271e-14, z: 0.000000028749012, w: 0.99818087}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: ph_JogPantsA03.R.001_end
+      parentName: ph_JogPantsA03.R.001
+      position: {x: -0, y: 0.045922402, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: jnt_UpperLeg.R
+      parentName: jnt_Hip
+      position: {x: 0.05769129, y: 0.0067887567, z: 0.0007135467}
+      rotation: {x: 0.9988689, y: 0.005697143, z: -0.039801154, w: -0.025386458}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000017}
+    - name: spo_Butt.R
+      parentName: jnt_UpperLeg.R
+      position: {x: 0.00000001169974, y: 0.00000007622293, z: 0.000000013504177}
+      rotation: {x: 0.5956626, y: 0.07937842, z: -0.07974786, w: 0.79531467}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.9999999}
+    - name: spo_Butt.R_end
+      parentName: spo_Butt.R
+      position: {x: -0.0000000055879354, y: 0.11389019, z: 0.000000062606546}
+      rotation: {x: -0.000000030338125, y: 0.0000000061674825, z: 0.000000002561137,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: spo_Butt.R_end_end
+      parentName: spo_Butt.R_end
+      position: {x: -0, y: 0.113890335, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mevica_JogPantsLong
+      parentName: Mevica_JogPantsLong(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
